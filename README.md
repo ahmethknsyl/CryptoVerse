@@ -11,6 +11,5 @@ Clean Code Structure: Readable and maintainable HTML/CSS code.
 GIF Preview: Includes a GIF showcasing the project's functionality.
 
 # Screen GIF 
-![Uploading EkranKayd2025-04-13175724-ezgif.com-video-to-gif-converter.gif…]()
-
+![EkranKayd2025-04-13175724-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/03e9c7f9-22fb-4bd3-b5d9-253b98d2a53f)
 
